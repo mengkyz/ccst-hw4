@@ -300,6 +300,7 @@ img {
     padding-inline: 1.5rem;
     padding-block: 0.3rem;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .checkout {
@@ -327,6 +328,7 @@ img {
     padding-block: 0.25rem;
     border-radius: 15px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 
